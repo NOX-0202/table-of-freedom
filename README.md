@@ -1,4 +1,4 @@
-# rpg-platform
+# table of freedom
 Will be an rpg maker sass platform 
 
 # structure
